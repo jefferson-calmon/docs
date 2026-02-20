@@ -9,7 +9,26 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
+    "tabs": [{
+        "tab": "auth-functions",
+        "groups": [
+          {
+            "group": "Auth Functions",
+            "pages": [
+              "auth-functions/check-email",
+              "auth-functions/forgot-password",
+              "auth-functions/login",
+              "auth-functions/me",
+              "auth-functions/register",
+              "auth-functions/reset-password",
+              "auth-functions/sso-account-verification",
+              "auth-functions/sso-account",
+              "auth-functions/sso-complete",
+              "auth-functions/sso-enrollment"
+            ]
+          }
+        ]
+      },
       {
         "tab": "Guides",
         "groups": [
