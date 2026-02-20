@@ -3,7 +3,9 @@
   "theme": "mint",
   "name": "CalcMed Docs",
   "colors": {
-    "primary": "#CE0000"
+    "primary": "#CE0000",
+    "light": "#FFCDD2",
+    "dark": "#B71C1C"
   },
   "navigation": {
     "tabs": [
